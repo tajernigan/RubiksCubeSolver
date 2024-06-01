@@ -4,8 +4,13 @@ using namespace std;
 using namespace sf;
 
 Cube::Cube(){
-    for ()
+    //initialize edges
+    for (int i = 0; i < 4; i++) edges[i]->top = 'U'; // assing all top edges to 'U'
+    for (int i = 8; i < 12; i++) edges[i]->top = 'D'; // assing all bottom edges to 'D'
+    for (int i = )
 }
+
+
 
 Color convertColor(const char colorChar){ // converts sides into sfml color
     char chars[6] = {'D', 'R', 'F', 'L', 'B', 'U'}; 
