@@ -1,4 +1,3 @@
-![](data/rubiks_vid.mov)
 # Tommy Jernigan, Section D, Rubik's Cube Solver
 
 ## Problem Description
@@ -28,3 +27,7 @@ File I/O is used to input the moves the user wanted to perform, as well as the l
 
 ## Reflections
 I learned a lot about the theory of Rubik's cubes while doing this project, including counting permutations at various stages of the cube. If I were to do this project again, I would use a more universal representation of the cube. The 54-character string is somewhat inefficient for move operations, especially when you have to linear search through a lookup table. I also spent a lot of time trying to get the cube to be 3D when I could have focused more on the solution/SFML side of the program, which would have been a better use of my time.
+
+<video width="640" height="=480" controls>
+  <source src="data/rubiks_vid.mov" type="video/mp4">
+</video>
