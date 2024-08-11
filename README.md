@@ -1,6 +1,6 @@
 # Tommy Jernigan, Section D, Rubik's Cube Solver
 
-![rubiks_vid (2)](https://github.com/user-attachments/assets/9bbd4ccc-425c-4d4d-98d8-e24773b53c41)
+![rubiks](https://github.com/user-attachments/assets/8028fc24-fc8c-4356-84d1-216b5052dd13)
 
 ## Project Overview 
 This program solves a Rubik's cube as well as display the cube in 2D. The cube will be scrambled based on the rubiks cube notation in the 'moves.txt' file, then it will find a solution and display the moves and final solved state of the cube.
