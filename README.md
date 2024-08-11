@@ -1,4 +1,4 @@
-# Tommy Jernigan, Section D, Rubik's Cube Solver
+# Rubik's Cube Solver
 
 ![output](https://github.com/user-attachments/assets/f4c976ad-e263-47f3-99bf-82defcce1140)
 
